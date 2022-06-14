@@ -1,0 +1,14 @@
+[submodule "rsa"]
+	path = rsa
+	url = https://github.com/simeonschuez/Recurrent-RSA.git
+	branch = decoding_repo
+[submodule "model"]
+	path = model
+	url = https://github.com/simeonschuez/Adaptive.git
+[submodule "evaluation/MeasureDiversity"]
+	path = evaluation/MeasureDiversity
+	url = https://github.com/simeonschuez/MeasureDiversity.git
+[submodule "evaluation/vsepp"]
+	path = evaluation/vsepp
+	url = https://github.com/simeonschuez/vsepp.git
+	branch = python3
